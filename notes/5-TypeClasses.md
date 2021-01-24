@@ -51,9 +51,9 @@ A type variable is declared, then the methods that are implemented by the class.
 module Foo where
 
 class Num a where
-  (+) : a > a > a
-  (-) : a > a > a
-  abs : a > a
+  (+) : a -> a -> a
+  (-) : a -> a -> a
+  abs : a -> a
 
 addAndSubtract x y = x + y - 5
 ```
