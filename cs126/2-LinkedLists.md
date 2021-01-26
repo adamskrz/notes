@@ -6,7 +6,7 @@ A linked list is a collection nodes which collectively form a linear sequence.
 
 A singly linked lists is a concrete data structure consisting of a sequence of nodes, starting from a head pointer, which points to the first element. Each node stores its own data (or a reference to an element), and a reference to the next node in the list.
 
-![Illustraction of data stored by nodes](img/LinkedList.png)
+![Illustraction of data stored by nodes](img/nodes.png)
 
 ### Inserting at the Head
 
@@ -30,7 +30,7 @@ A singly linked lists is a concrete data structure consisting of a sequence of n
 
 ### Removing the tail
 
-Sadly there is no contant-time way to update the tail, as we have to traverse the entire linked list to reach it in order to remove.
+Sadly there is no constant-time way to update the tail, as we have to traverse the entire linked list to reach it in order to remove.
 
 ## Doubly Linked Lists
 
