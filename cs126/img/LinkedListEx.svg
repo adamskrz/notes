@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="138.54mm" height="80.262mm" version="1.1" viewBox="0 0 138.54 80.262" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-36.588 -163.44)">
+  <g transform="matrix(1.3889e-5 0 0 1.3889e-5 89.792 173.51)" fill="#fff">
+   <path d="m-0.26123 355607c0-196397 159210-355607 355607-355607h1879585c196397 0 355607 159210 355607 355607v1422386c0 196397-159210 355607-355607 355607h-1879585c-196397 0-355607-159210-355607-355607z" fill="#fff" stroke="#515a9e" stroke-dasharray="76200, 28575" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="9525"/>
+  </g>
+  <path d="m94.026 177.74h8.4667v8.4667h-8.4667z" fill="#f0de94" fill-rule="evenodd"/>
+  <g transform="matrix(1.3889e-5 0 0 1.3889e-5 94.026 177.74)">
+   <path d="m-0.43921 0.30616h609600v609600h-609600z" fill="none" stroke="#515a9e" stroke-miterlimit="8" stroke-width="28575"/>
+  </g>
+  <g transform="matrix(.17639 0 0 -.17639 115.4 176.26)">
+   <text transform="matrix(1,0,0,-1,0,-20)" fill="#40458c" font-family="Tahoma" font-size="20px"><tspan x="0 11.152 21.684 31.596001 38.287998" y="0">next</tspan></text>
+  </g>
+  <g transform="matrix(.17639 0 0 -.17639 91.913 196.5)">
+   <text transform="matrix(1,0,0,-1,0,-20)" fill="#be2d00" font-family="Tahoma" font-size="20px"><tspan x="0 10.528 15.096 25.624001 42.411999 52.939999 64.087997 70.776001" y="0">element</tspan></text>
+  </g>
+  <g transform="matrix(.17639 0 0 -.17639 114.35 195.31)">
+   <text transform="matrix(1,0,0,-1,0,-20)" fill="#40458c" font-family="Tahoma" font-size="20px"><tspan x="0 11.152 22.011999 33.066002 43.594002" y="0">node</tspan></text>
+  </g>
+  <path d="m102.49 177.74h8.4667v8.4667h-8.4667z" fill="#f0de94" fill-rule="evenodd"/>
+  <g transform="matrix(1.3889e-5 0 0 1.3889e-5 102.49 177.74)">
+   <path d="m-0.12061 0.30616h609600v609600h-609600z" fill="none" stroke="#515a9e" stroke-miterlimit="8" stroke-width="28575"/>
+  </g>
+  <g transform="matrix(1.3889e-5 0 0 1.3889e-5 98.259 181.98)">
+   <path d="m-0.39233 0.35304v885825" fill="none" stroke="#cc4100" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="28575"/>
+  </g>
+  <path d="m97.664 181.98c0-0.32879 0.26652-0.59531 0.59531-0.59531 0.32876 0 0.59531 0.26652 0.59531 0.59531s-0.26655 0.59532-0.59531 0.59532c-0.32879 0-0.59531-0.26653-0.59531-0.59532z" fill="#cc4100" fill-rule="evenodd"/>
+  <path d="m98.854 193.48-0.59531 1.1906-0.59531-1.1906z" fill="#cc4100" fill-rule="evenodd"/>
+  <g transform="matrix(1.3889e-5 0 0 -1.3889e-5 106.73 181.98)">
+   <path d="m-0.073731-0.35304h885825" fill="none" stroke="#515a9e" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="28575"/>
+  </g>
+  <g fill-rule="evenodd">
+   <path d="m106.73 181.38c-0.32875 0-0.59531 0.26652-0.59531 0.59531s0.26656 0.59532 0.59531 0.59532c0.32879 0 0.59532-0.26653 0.59532-0.59532s-0.26653-0.59531-0.59532-0.59531z" fill="#515a9e"/>
+   <path d="m118.24 182.57 1.1906-0.59532-1.1906-0.59531z" fill="#515a9e"/>
+   <path d="m60.584 212.69h8.4667v8.4667h-8.4667z" fill="#f0de94"/>
+  </g>
+  <g transform="matrix(1.3889e-5 0 0 1.3889e-5 60.584 212.69)">
+   <path d="m-0.3064 0.31605h609600v609600h-609600z" fill="none" stroke="#515a9e" stroke-miterlimit="8" stroke-width="28575"/>
+  </g>
+  <g transform="matrix(.17639 0 0 -.17639 63.861 230.13)">
+   <text transform="matrix(1,0,0,-1,0,-20)" fill="#be2d00" font-family="Tahoma" font-size="20px"><tspan x="0 11.992" y="0">A</tspan></text>
+  </g>
+  <path d="m69.051 212.69h8.4667v8.4667h-8.4667z" fill="#f0de94" fill-rule="evenodd"/>
+  <g transform="matrix(1.3889e-5 0 0 1.3889e-5 69.051 212.69)">
+   <path d="m-0.21265 0.31605h609600v609600h-609600z" fill="none" stroke="#515a9e" stroke-miterlimit="8" stroke-width="28575"/>
+  </g>
+  <g transform="matrix(1.3889e-5 0 0 1.3889e-5 64.818 216.93)">
+   <path d="m-0.25952-0.024649v885825" fill="none" stroke="#cc4100" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="28575"/>
+  </g>
+  <path d="m64.222 216.93c0-0.32879 0.26652-0.59531 0.59531-0.59531s0.59531 0.26652 0.59531 0.59531-0.26652 0.59531-0.59531 0.59531-0.59531-0.26652-0.59531-0.59531z" fill="#cc4100" fill-rule="evenodd"/>
+  <path d="m65.413 228.43-0.59531 1.1906-0.59531-1.1906z" fill="#cc4100" fill-rule="evenodd"/>
+  <g transform="matrix(1.3889e-5 0 0 -1.3889e-5 73.284 216.93)">
+   <path d="m-0.16577 0.024649h885825" fill="none" stroke="#515a9e" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="28575"/>
+  </g>
+  <g fill-rule="evenodd">
+   <path d="m73.284 216.33c-0.32879 0-0.59531 0.26652-0.59531 0.59531s0.26652 0.59531 0.59531 0.59531c0.32879 0 0.59531-0.26652 0.59531-0.59531s-0.26652-0.59531-0.59531-0.59531z" fill="#515a9e"/>
+   <path d="m84.794 217.52 1.1906-0.59531-1.1906-0.59531z" fill="#515a9e"/>
+   <path d="m85.984 212.69h8.4667v8.4667h-8.4667z" fill="#f0de94"/>
+  </g>
+  <g transform="matrix(1.3889e-5 0 0 1.3889e-5 85.984 212.69)">
+   <path d="m0.08728 0.31605h609600v609600h-609600z" fill="none" stroke="#515a9e" stroke-miterlimit="8" stroke-width="28575"/>
+  </g>
+  <path d="m94.451 212.69h8.4667v8.4667h-8.4667z" fill="#f0de94" fill-rule="evenodd"/>
+  <g transform="matrix(1.3889e-5 0 0 1.3889e-5 94.451 212.69)">
+   <path d="m-0.20654 0.31605h609600v609600h-609600z" fill="none" stroke="#515a9e" stroke-miterlimit="8" stroke-width="28575"/>
+  </g>
+  <g transform="matrix(1.3889e-5 0 0 -1.3889e-5 98.684 216.93)">
+   <path d="m0.11548 0.024649h885825" fill="none" stroke="#515a9e" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="28575"/>
+  </g>
+  <g fill-rule="evenodd">
+   <path d="m98.684 216.33c-0.32879 0-0.59531 0.26652-0.59531 0.59531s0.26652 0.59531 0.59531 0.59531 0.59531-0.26652 0.59531-0.59531-0.26652-0.59531-0.59531-0.59531z" fill="#515a9e"/>
+   <path d="m110.19 217.52 1.1906-0.59531-1.1906-0.59531z" fill="#515a9e"/>
+   <path d="m111.38 212.69h8.4667v8.4667h-8.4667z" fill="#f0de94"/>
+  </g>
+  <g transform="matrix(1.3889e-5 0 0 1.3889e-5 111.38 212.69)">
+   <path d="m-0.019043 0.31605h609600v609600h-609600z" fill="none" stroke="#515a9e" stroke-miterlimit="8" stroke-width="28575"/>
+  </g>
+  <path d="m119.85 212.69h8.4667v8.4667h-8.4667z" fill="#f0de94" fill-rule="evenodd"/>
+  <g transform="matrix(1.3889e-5 0 0 1.3889e-5 119.85 212.69)">
+   <path d="m0.074707 0.31605h609600v609600h-609600z" fill="none" stroke="#515a9e" stroke-miterlimit="8" stroke-width="28575"/>
+  </g>
+  <g transform="matrix(1.3889e-5 0 0 -1.3889e-5 124.08 216.93)">
+   <path d="m0.12158 0.024649h885825" fill="none" stroke="#515a9e" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="28575"/>
+  </g>
+  <g fill-rule="evenodd">
+   <path d="m124.08 216.33c-0.32879 0-0.59531 0.26652-0.59531 0.59531s0.26652 0.59531 0.59531 0.59531c0.32876 0 0.59531-0.26652 0.59531-0.59531s-0.26655-0.59531-0.59531-0.59531z" fill="#515a9e"/>
+   <path d="m135.59 217.52 1.1906-0.59531-1.1906-0.59531z" fill="#515a9e"/>
+   <path d="m136.78 212.69h8.4667v8.4667h-8.4667z" fill="#f0de94"/>
+  </g>
+  <g transform="matrix(1.3889e-5 0 0 1.3889e-5 136.78 212.69)">
+   <path d="m0.26221 0.31605h609600v609600h-609600z" fill="none" stroke="#515a9e" stroke-miterlimit="8" stroke-width="28575"/>
+  </g>
+  <path d="m145.25 212.69h8.4667v8.4667h-8.4667z" fill="#f0de94" fill-rule="evenodd"/>
+  <g transform="matrix(1.3889e-5 0 0 1.3889e-5 145.25 212.69)">
+   <path d="m-0.64404 0.31605h609600v609600h-609600z" fill="none" stroke="#515a9e" stroke-miterlimit="8" stroke-width="28575"/>
+  </g>
+  <g transform="matrix(1.3889e-5 0 0 -1.3889e-5 149.48 216.93)">
+   <path d="m-0.59717 0.024649h885825" fill="none" stroke="#515a9e" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="28575"/>
+  </g>
+  <path d="m149.48 216.33c-0.32879 0-0.59531 0.26652-0.59531 0.59531s0.26652 0.59531 0.59531 0.59531c0.32876 0 0.59531-0.26652 0.59531-0.59531s-0.26655-0.59531-0.59531-0.59531z" fill="#515a9e" fill-rule="evenodd"/>
+  <path d="m160.99 217.52 1.1906-0.59531-1.1906-0.59531z" fill="#515a9e" fill-rule="evenodd"/>
+  <g transform="matrix(.17639 0 0 -.17639 89.261 230.13)">
+   <text transform="matrix(1,0,0,-1,0,-20)" fill="#be2d00" font-family="Tahoma" font-size="20px"><tspan x="0 11.788" y="0">B</tspan></text>
+  </g>
+  <g transform="matrix(1.3889e-5 0 0 1.3889e-5 90.218 216.93)">
+   <path d="m0.021729-0.024649v885825" fill="none" stroke="#cc4100" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="28575"/>
+  </g>
+  <path d="m89.622 216.93c0-0.32879 0.26652-0.59531 0.59531-0.59531 0.32879 0 0.59531 0.26652 0.59531 0.59531s-0.26652 0.59531-0.59531 0.59531c-0.32879 0-0.59531-0.26652-0.59531-0.59531z" fill="#cc4100" fill-rule="evenodd"/>
+  <path d="m90.813 228.43-0.59531 1.1906-0.59531-1.1906z" fill="#cc4100" fill-rule="evenodd"/>
+  <g transform="matrix(.17639 0 0 -.17639 114.66 230.13)">
+   <text transform="matrix(1,0,0,-1,0,-20)" fill="#be2d00" font-family="Tahoma" font-size="20px"><tspan x="0 12.012" y="0">C</tspan></text>
+  </g>
+  <g transform="matrix(1.3889e-5 0 0 1.3889e-5 115.62 216.93)">
+   <path d="m0.027832-0.024649v885825" fill="none" stroke="#cc4100" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="28575"/>
+  </g>
+  <path d="m115.02 216.93c0-0.32879 0.26653-0.59531 0.59532-0.59531 0.32875 0 0.59531 0.26652 0.59531 0.59531s-0.26656 0.59531-0.59531 0.59531c-0.32879 0-0.59532-0.26652-0.59532-0.59531z" fill="#cc4100" fill-rule="evenodd"/>
+  <path d="m116.21 228.43-0.59531 1.1906-0.59532-1.1906z" fill="#cc4100" fill-rule="evenodd"/>
+  <g transform="matrix(.17639 0 0 -.17639 139.93 230.13)">
+   <text transform="matrix(1,0,0,-1,0,-20)" fill="#be2d00" font-family="Tahoma" font-size="20px"><tspan x="0 13.564" y="0">D</tspan></text>
+  </g>
+  <g transform="matrix(1.3889e-5 0 0 1.3889e-5 141.02 216.93)">
+   <path d="m0.30908-0.024649v885825" fill="none" stroke="#cc4100" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="28575"/>
+  </g>
+  <path d="m140.42 216.93c0-0.32879 0.26653-0.59531 0.59532-0.59531 0.32875 0 0.59531 0.26652 0.59531 0.59531s-0.26656 0.59531-0.59531 0.59531c-0.32879 0-0.59532-0.26652-0.59532-0.59531z" fill="#cc4100" fill-rule="evenodd"/>
+  <path d="m141.61 228.43-0.59531 1.1906-0.59532-1.1906z" fill="#cc4100" fill-rule="evenodd"/>
+  <g transform="matrix(.17639 0 0 -.17639 163.08 214.8)">
+   <text transform="matrix(1,0,0,-1,0,-20)" fill="#40458c" font-family="Symbol" font-size="20px" stroke="#40458c" stroke-miterlimit="10" stroke-width=".48"><tspan x="0" y="0">∅</tspan></text>
+  </g>
+  <g transform="matrix(1.3889e-5 0 0 1.3889e-5 49.803 211.72)">
+   <path d="m-0.063355 0.30531 736442 368221" fill="none" stroke="#515a9e" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="28575"/>
+  </g>
+  <path d="m49.536 212.25c-0.29408-0.14704-0.41328-0.50462-0.26624-0.79869 0.14704-0.29408 0.50465-0.41325 0.79872-0.26621 0.29404 0.14704 0.41324 0.50461 0.26621 0.79869s-0.50461 0.41328-0.79869 0.26621z" fill="#515a9e" fill-rule="evenodd"/>
+  <path d="m59.587 215.95 0.79869 1.0649h-1.3312z" fill="#515a9e" fill-rule="evenodd"/>
+  <g transform="matrix(.17639 0 0 -.17639 46.354 207.07)">
+   <text transform="matrix(1,0,0,-1,0,-20)" fill="#40458c" font-family="Tahoma" font-size="20px"><tspan x="0 11.152 21.684 32.175999 43.228001" y="0">head</tspan></text>
+  </g>
+ </g>
+</svg>
