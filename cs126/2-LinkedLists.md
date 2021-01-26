@@ -37,4 +37,3 @@ Sadly there is no contant-time way to update the tail, as we have to traverse th
 A doubly linked list can be traversed forward and backward, as nodes store the element and a reference to both the previous and next node!
 
 ![Illustration showing the structure of a doubly linked list](img/DoubleLinkedList.png)
-
