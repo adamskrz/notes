@@ -1,2 +1,1 @@
-# cs141
- 
+## Lecture notes, I guess
