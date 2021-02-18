@@ -19,7 +19,7 @@ $$\phi = B \perp A = BAcos\theta$$
 
 As one Tesla is a very strong field, a commonly used smaller unt is the Guass. $1 T = 104 G$.
 
-### Magnetic Materials
+## Magnetic Materials
 
 We know the magnetic flux here is calculated by
 $$H=\frac{NI}{l}$$
@@ -54,5 +54,12 @@ where $\mu_0H$ is the magnetic flux if no material was present, and $\mu_0M$ is 
 
 $$\begin{aligned}
 M & = \chi_mH \\
-\chi_m & = \mu_r-1 
+\chi_m & = \mu_r-1
 \end{aligned}$$
+
+### Choice of material
+
+As we sometimes want our magnets to have different properties, we can use different materials to fit our needs:
+
+![Hysteresis loops for three applications of ferromagnetic and ferrimagnetic materials](img/DifferentHysteresis.png)
+
